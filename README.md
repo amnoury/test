@@ -1,2 +1,2 @@
 # test
-my first fit project
+my first git project
